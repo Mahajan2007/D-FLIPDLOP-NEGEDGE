@@ -54,14 +54,17 @@ q<=d;//D input is passed to Q on the negative clock edge
 end
 endmodule 
 ```
-Developed by:Mahajanani.R
-RegisterNumber:24003555
+## Developed by:Mahajanani.R
+## RegisterNumber:24003555
 */
 
 **RTL LOGIC FOR FLIPFLOPS**
+
+
 ![exp 8 logic diagram](https://github.com/user-attachments/assets/435f50da-f528-4b58-ae1b-5685fbd7e7de)
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
+
 ![exp 8 wf](https://github.com/user-attachments/assets/48ed1bb7-80e9-449d-a674-f2a598674b81)
 
 
